@@ -22,7 +22,11 @@ root
    |
    ---pika
 ```
-
+## Code
+### code usage
+```python
+python Eval_all.py
+```
 ## Software
 ### software whl download link:
 https://drive.google.com/file/d/1scoJ-mLoZ_3ZkrALQfdwwnw-0Q30NB5e/view?usp=drive_link
