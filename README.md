@@ -1,5 +1,5 @@
 # Sora-Generates-Videos-with-Stunning-Geometrical-Consistency
-Sora Generates Videos with Stunning Geometrical Consistency
+Generates Videos  Geometrical Consistency metric (GVGC metric)
 ## Fast forward
 
 
