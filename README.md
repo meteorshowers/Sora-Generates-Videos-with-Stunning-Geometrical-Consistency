@@ -1,5 +1,7 @@
 # Sora-Generates-Videos-with-Stunning-Geometrical-Consistency
-Generates Videos  Geometrical Consistency metric (GVGC metric)
+Generates Videos  Geometrical Consistency metric toolbox (GVGC metric)
+##
+The recently developed Sora model [1] has exhibited remarkable capabilities in video generation, sparking intense discussions regarding its ability to simulate real-world phenomena. Despite its growing popularity, there is a lack of established metrics to quantitatively evaluate its fidelity to real-world physics. In this paper, we introduce a new benchmark that assesses the quality of the generated videos based on their adherence to real-world physics principles. We employ a method that transforms the generated videos to 3D models, leveraging the premise that the accuracy of 3D reconstruction is heavily contingent on the video quality. From the perspective of 3D reconstruction, we use the fidelity of the geometric constraints satisfied by the constructed 3D models as a proxy to gauge the extent to which the generated videos conform to the rules of real-world physics.
 ## Homepase
 https://sora-geometrical-consistency.github.io/
 ## Fast forward
