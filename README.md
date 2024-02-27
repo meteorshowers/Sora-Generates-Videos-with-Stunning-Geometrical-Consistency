@@ -52,14 +52,20 @@ root
    ---sora
    |
    ---------brief_result
+   ---------full_result
+   ---------image_result
    |
    ---gen2
    |
    ---------brief_result
+   ---------full_result
+   ---------image_result
    |
    ---pika
    |
    ---------brief_result
+   ---------full_result
+   ---------image_result
 ```
 ```
 
