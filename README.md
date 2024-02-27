@@ -9,6 +9,9 @@ https://sora-geometrical-consistency.github.io/
  <img src="img/teaser.png" width="80%">
 </div>
 
+<div align="left">
+ <img src="img/fidelitymetric.png" width="80%">
+</div>
 
 ## Data
 ### data download link:
