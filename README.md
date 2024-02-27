@@ -3,6 +3,9 @@ Generates Videos  Geometrical Consistency metric (GVGC metric)
 ## Homepase
 https://sora-geometrical-consistency.github.io/
 ## Fast forward
+<div align="left">
+ <img src="img/teaser.png" width="80%">
+</div>
 
 
 ## Data
