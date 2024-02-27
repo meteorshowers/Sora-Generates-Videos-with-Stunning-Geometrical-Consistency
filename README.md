@@ -4,7 +4,9 @@ Sora Generates Videos with Stunning Geometrical Consistency
 ### software whl download link:
 https://drive.google.com/file/d/1scoJ-mLoZ_3ZkrALQfdwwnw-0Q30NB5e/view?usp=drive_link
 ### install:
+```python
 pip install GVGC-0.0.1-py3-none-any.whl
+```
 
 ### usage:
 ```python
