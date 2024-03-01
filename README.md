@@ -13,6 +13,9 @@ https://sora-geometrical-consistency.github.io/
  <img src="img/fidelitymetric.png" width="80%">
 </div>
 
+<div align="left">
+ <img src="img/teaser.png" width="80%">
+</div>
 ## Data
 ### data download link:
 https://drive.google.com/file/d/1E_7DR_DIvvWtDXn5KXUwXfBIA_3MhBMG/view?usp=drive_link
