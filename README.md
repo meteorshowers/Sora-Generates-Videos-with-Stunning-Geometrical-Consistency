@@ -14,7 +14,12 @@ https://sora-geometrical-consistency.github.io/
 </div>
 
 <div align="left">
- <img src="img/teaser.png" width="80%">
+ <img src="img/matching.png" width="80%">
+</div>
+
+
+<div align="left">
+ <img src="img/recon.png" width="80%">
 </div>
 ## Data
 ### data download link:
