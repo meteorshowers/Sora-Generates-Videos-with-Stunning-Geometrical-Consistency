@@ -14,6 +14,10 @@ https://sora-geometrical-consistency.github.io/
 </div>
 
 <div align="left">
+ <img src="img/stereomatching.png" width="80%">
+</div>
+
+<div align="left">
  <img src="img/matching.png" width="80%">
 </div>
 
