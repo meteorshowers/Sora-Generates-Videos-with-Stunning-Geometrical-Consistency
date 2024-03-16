@@ -100,5 +100,5 @@ root
 ```
 ```
 ## Media report
-https://www.youtube.com/watch?v=X6n5ZCc7yy0 用 Sora 影片建 3D！
+用 Sora 影片建 3D！ https://www.youtube.com/watch?v=X6n5ZCc7yy0 
 
